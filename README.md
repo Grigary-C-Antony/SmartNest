@@ -20,7 +20,7 @@ A **real-time smart home controller** built with React, Node.js, and ESP32, desi
 
 ## 🖼️ UI Preview
 
-> *(Add screenshots or GIFs here once available — showing dashboard, device controls, data visualizations, etc.)*
+
 
 ---
 
