@@ -79,8 +79,6 @@ npm run dev
 ---
 
 ## 🙌 Acknowledgements
-
-Built by [Grigary C Antony](https://grigary.in)
-Inspired by the dream of a fully connected, intelligent home.
+UI inspired from [Dribble](https://dribbble.com/shots/24823407-Dashboard-for-a-IoT-Product-Cace) 
 
 ---
