@@ -79,6 +79,6 @@ npm run dev
 ---
 
 ## 🙌 Acknowledgements
-UI inspired from [Dribble](https://dribbble.com/shots/24823407-Dashboard-for-a-IoT-Product-Cace) 
+UI inspired from [Dribble](https://dribbble.com/shots/24823407-Dashboard-for-a-IoT-Product-Cac) 
 
 ---
