@@ -20,7 +20,7 @@ A **real-time smart home controller** built with React, Node.js, and ESP32, desi
 
 ## 🖼️ UI Preview
 
-
+![screenshot](https://github.com/Grigary-C-Antony/SmartNest/blob/main/Images/Screenshot%202025-05-04%20030037.png)
 
 ---
 
